@@ -1,4 +1,4 @@
-# Profiling Aircraft On Time Preformance for climate-friendly planning.
+# Profiling Aircraft On Time Performance for climate-friendly planning.
 # by Obum Onwudiwe
 
 
